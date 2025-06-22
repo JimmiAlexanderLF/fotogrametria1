@@ -45,6 +45,7 @@ La **fotogrametría** es una técnica que permite obtener información precisa d
 ---
 
 **Autor:** Limaymanta F. Jimmi A.  
+**Correo:** dunkelvolkshoes@gmail.com
 **Fecha de creación:**  Junio de 2025
 
-**Correo:** dunkelvolkshoes@gmail.com
+
