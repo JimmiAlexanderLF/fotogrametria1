@@ -45,5 +45,6 @@ Puedes agregar imágenes, ejemplos de ortofotos, modelos 3D o datos recolectados
 ---
 
 **Autor:** Limaymanta F. Jimmi A.  
-**Fecha de creación:**  Junio de 2025 
+**Fecha de creación:**  Junio de 2025
+
 **Correo:** dunkelvolkshoes@gmail.com
