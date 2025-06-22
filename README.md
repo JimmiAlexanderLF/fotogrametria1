@@ -40,7 +40,7 @@ La **fotogrametría** es una técnica que permite obtener información precisa d
 
 ##  Panel Fotográfico
 
- `./img/multi.jpg`.
+![Imagen de fotogrametría](./img/multi.jpg)
 
 ---
 
