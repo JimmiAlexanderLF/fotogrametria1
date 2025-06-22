@@ -38,9 +38,9 @@ La **fotogrametría** es una técnica que permite obtener información precisa d
 - Software: Pix4D, Agisoft Metashape, DroneDeploy.
 
 
-##  Recursos
+##  Panel Fotográfico
 
-Puedes agregar imágenes, ejemplos de ortofotos, modelos 3D o datos recolectados con drones en la carpeta `/recursos`.
+ `/recursos`.
 
 ---
 
